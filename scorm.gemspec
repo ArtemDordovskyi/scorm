@@ -15,5 +15,5 @@ Gem::Specification.new do |s|
   s.executables        = ['scorm']
   s.default_executable = 'scorm'
 
-  s.add_dependency('rubyzip')
+  s.add_dependency('zip-zip')
 end
